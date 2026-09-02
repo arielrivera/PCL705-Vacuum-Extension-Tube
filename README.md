@@ -12,7 +12,7 @@ This repository contains the STL/3MF files for accessories designed to extend th
   Files: `PCL705-crevice-200mm.stl` and `PCL705-crevice-200mm.3mf`
 - **`PCL705-wide-nozzle`** — a wide-mouth nozzle for larger surfaces and faster cleanup.  
   Files: `PCL705-wide-nozzle.stl` and `PCL705-wide-nozzle.3mf`
-- **`PCL705Ryobi+Vacuum+Extender+V2`** — the extender adapter that connects the accessories to the PCL705 vacuum hose/wand.  
+- **`PCL705Ryobi+Vacuum+Extender+V2`** — Original model this project is inspired on (see below). A basic extender adapter that connects to the PCL705 vacuum hose/wand.  
   File: `PCL705Ryobi+Vacuum+Extender+V2.3mf`
 
 All parts are designed to be printed without supports and snap/fit onto the existing PCL705 vacuum wand.
