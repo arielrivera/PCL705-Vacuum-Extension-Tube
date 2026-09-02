@@ -19,6 +19,17 @@ All parts are designed to be printed without supports and snap/fit onto the exis
 
 ---
 
+## Credits / Inspiration
+
+These accessories are inspired by the public model **“Ryobi PCL705 Vacuum Extension Tube”** by **[@dpappo](https://makerworld.com/en/@dpappo)** on MakerWorld.
+
+- Original model: https://makerworld.com/en/models/3004740-ryobi-pcl705-vacuum-extension-tube#profileId-3373957
+- Creator profile: https://makerworld.com/en/@dpappo
+
+This repository contains remixes/adaptations of that original design for the PCL705 vacuum.
+
+---
+
 ## Gallery — 3D printed parts
 
 | 3D printed accessory | 3D printed accessory | Accessories in use |
@@ -36,7 +47,7 @@ All parts are designed to be printed without supports and snap/fit onto the exis
 | Infill | 20–25% |
 | Walls | 3+ |
 | Supports | Not required for most orientations |
-| Orientation | Print veritically; use the 3MF files for pre-sliced orientation |
+| Orientation | Print as oriented in the 3MF files; otherwise flat side down |
 
 ---
 
